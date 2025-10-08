@@ -81,4 +81,4 @@ Classification of dog emotions with predicted labels.
 Visualization of training accuracy and loss over epochs.
 Real-time prediction using image input.
 1️⃣ Clone the Repository
-git clone https://github.com/jayalakshmi-sakthi/DeepLearning.git cd DeepLearning
+git clone https://github.com/gokila0/Deep-Learning/tree/main cd DeepLearning
